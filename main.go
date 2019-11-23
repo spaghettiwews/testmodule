@@ -1,5 +1,5 @@
 package testmodule
 
-func Run() string {
-	return "it's a module"
+func Run() {
+	fmt.Println("it's a module")
 }
