@@ -1,5 +1,5 @@
 package testmodule
 
-func Run() {
+func Run() string {
 	return "it's a module"
 }
