@@ -1,7 +1,5 @@
 package testmodule
 
-import "fmt"
-
-func Run() {
-	fmt.Println("it's a module innit")
+func Run() string {
+	return "it's a module innit"
 }
